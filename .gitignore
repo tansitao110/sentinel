@@ -1,0 +1,13 @@
+.DS_Store
+target
+.settings
+.classpath
+.project
+.metadata
+.idea
+*.iml
+*.log
+*.ipr
+*.iws
+.gitkeep
+.jar
